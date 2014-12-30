@@ -79,7 +79,7 @@ function spinner(element) {
 }
 
 function setIcons() {
-	$(".switch, .dimmer").append("<div class='icon inactive'><i class='fa fa-toggle-off'></i></div>").append("<div class='icon active'><i class='fa fa-toggle-on'></i></div>");
+	$(".switch, .dimmer").append("<div class='icon inactive'><i class='fa fa-lightbulb-o'></i></div>").append("<div class='icon active'><i class='fa fa-lightbulb-o'></i></div>");
 	
 	$(".lock").append("<div class='icon inactive'><i class='fa fa-lock'></i></div>").append("<div class='icon active'><i class='fa fa-unlock-alt'></i></div>");
 	
