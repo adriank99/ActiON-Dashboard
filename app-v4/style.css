@@ -36,7 +36,7 @@ body {background-color: #1d1d1d!important;}
 
 /* reset ***********************/
 body, .ui-page{background-color:black!important;}
-* {text-shadow:none;font-family:'Indie Flower',Verdana,Arial,Helvetica,sans-serif}
+* {font-family: 'Open Sans', sans-serif;}
 .ui-overlay-a {text-shadow:none}
 .ui-li-static.ui-body-inherit {text-align:center; cursor:pointer;}
 .ui-slider-track.ui-corner-all {border-radius: 1em;}
