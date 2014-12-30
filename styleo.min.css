@@ -61,12 +61,12 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 .icon {text-shadow:none;font-size:3em;line-height:3em;width:100%;margin-top: -1.5em;position: absolute;text-align: center;top: 50%;white-space:nowrap;}
 .icon.text {text-shadow:none;font-size:1.8em;line-height:2em;width:100%;margin-top: -1em;}
 
-.icon span.text {font-size: 0.75em; margin-right: 15px;}
+.icon span.text {text-shadow:nonefont-size: 0.75em; margin-right: 15px;}
 
-.footer {bottom: 5px;color: white;font-size: 11px;left: 5px;position: absolute;line-height:10px;}
-.footer.right {right:5px;text-align:right;}
-.footer i {font-size:16px}
-.spinner {bottom: 5px;right:5px;color: white;font-size: 10px;line-height:10px;position: absolute; display:none}
+.footer {text-shadow:nonebottom: 5px;color: white;font-size: 11px;left: 5px;position: absolute;line-height:10px;}
+.footer.right {text-shadow:noneright:5px;text-align:right;}
+.footer i {text-shadow:nonefont-size:16px}
+.spinner {text-shadow:nonebottom: 5px;right:5px;color: white;font-size: 10px;line-height:10px;position: absolute; display:none}
 .opaque {opacity: 0.3;}
 
 .tile.active .icon.inactive {display:none}
