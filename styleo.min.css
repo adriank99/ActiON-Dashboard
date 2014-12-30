@@ -26,13 +26,13 @@
 .music.active .ui-slider-bg.ui-btn-active {background-color:#ab47bc;}
 
 body {background-color: #1d1d1d!important;}
-.tile {text-shadow:none;border-radius:2px;color:white}
-.tiles {text-shadow:none;margin:2px;}
+.tile {border-radius:2px;color:white;text-shadow:none}
+.tiles {margin:2px;text-shadow:none}
 .switch, .dimmer, .momentary, .clock, .lock, .refresh, .link, .menu, .thermostat, .music i, .holiday, .camera {cursor: pointer;}
-.tiles {text-shadow:none;overflow:hidden}
-.tile {text-shadow:none;width: 120px; height: 120px;}
-.w2 {text-shadow:none;width: 240px;}
-.h2 {text-shadow:none;height:240px;}
+.tiles {overflow:hidden;text-shadow:none;}
+.tile {width: 120px; height: 120px;text-shadow:none;}
+.w2 {width: 240px;text-shadow:none}
+.h2 {height:240px;text-shadow:none}
 
 /* reset ***********************/
 body, .ui-page{background-color:black!important;}
