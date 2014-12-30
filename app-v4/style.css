@@ -57,7 +57,7 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 
 /* tiles *************************/
 .title {font-size:0.9em;line-height:1em;height:2em;overflow:ellipsis;position:absolute;top:5px;left:5px}
-.title2 {font-size: 16px}
+.title2 {font-size: 8px}
 .icon {font-size:8em;line-height:8em;width:100%;margin-top: -1.5em;position: absolute;text-align: center;top: 50%;white-space:nowrap;}
 .icon.text {font-size:1.8em;line-height:2em;width:100%;margin-top: -1em;}
 
