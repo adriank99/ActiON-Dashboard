@@ -56,7 +56,7 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 .wtfcloud .icon.message {margin-left:-50px;margin-top: -65px;color:grey;}
 
 /* tiles *************************/
-.title {box-shadow:none;text-shadow:none;font-size:.9em;line-height:1em;height:2em;overflow:ellipsis;top:5px;center:5px;text-align: center}
+.title {box-shadow:none;text-shadow:none;font-size:1.1em;line-height:1.5em;height:2em;overflow:ellipsis;top:5px;center:5px;text-align: center}
 .title2 {box-shadow:none;text-shadow:none;font-size: 12px}
 .icon {box-shadow:none;text-shadow:none;font-size:3em;line-height:3em;width:100%;margin-top: -1.5em;position: absolute;text-align: center;top: 50%;white-space:nowrap;}
 .icon.text {box-shadow:none;text-shadow:none;font-size:1.8em;line-height:2em;width:100%;margin-top: -1em;}
