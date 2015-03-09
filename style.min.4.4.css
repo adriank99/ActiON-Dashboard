@@ -58,7 +58,7 @@ html body .spinCold .ui-group-theme-a .ui-btn, .ui-page-theme-a .ui-btn{border:0
 
 .weather .icon i {font-size: 0.9em;}
 /* tiles *************************/
-.title {font-size:14px;line-height:1em;height:2em;overflow:ellipsis;position:absolute;top:2px;left:4px}
+.title {font-size:14px;overflow:ellipsis;position:absolute;top:2px;left:4px}
 .title2 {font-size: 12px}
 
 /** icons **/
