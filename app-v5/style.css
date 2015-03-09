@@ -37,7 +37,7 @@
 
 /* reset ***********************/
 body, .ui-page{background-color:black}
-* {text-shadow:none;font-family:"Mallanna",Verdana,Arial,Helvetica,sans-serif}
+* {text-shadow:none;font-family: 'Lato', sans-serif;}
 .ui-overlay-a {text-shadow:none}
 .ui-li-static.ui-body-inherit {text-align:center; cursor:pointer;}
 
